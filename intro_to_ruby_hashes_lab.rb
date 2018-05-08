@@ -1,13 +1,18 @@
 def new_hash
-
+	new_hash = Array.new
 end
 
 def actor
-
+	actor = {name: Dwayne The Rock Johnson}
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+		railroads:{
+
+			
+		}
+	}
 
 end
 
